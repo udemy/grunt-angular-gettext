@@ -45,6 +45,6 @@
     "gettext"
   ],
   "dependencies": {
-    "angular-gettext-tools": "git+https://github.com/udemy/angular-gettext-tools.git#22577408b8af9d3acaff6b856cb012a5710e1353"
+    "angular-gettext-tools": "git+https://github.com/udemy/angular-gettext-tools.git#38c210cfcd8747b80fd836a6be75cc0d94614d95"
   }
 }
